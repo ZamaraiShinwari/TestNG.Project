@@ -21,5 +21,13 @@
       <version>3.8.1</version>
       <scope>test</scope>
     </dependency>
+    <!-- https://mvnrepository.com/artifact/com.trib3/testing -->
+<dependency>
+    <groupId>com.trib3</groupId>
+    <artifactId>testing</artifactId>
+    <version>1.32.3489</version>
+    <scope>test</scope>
+</dependency>
+    
   </dependencies>
 </project>
